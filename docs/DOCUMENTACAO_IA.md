@@ -29,3 +29,10 @@ Foram criados os agrupadores que representam a estrutura real
 do carro.
 
 Cada grupo pode conter outros componentes, mantendo o padrão Composite.
+
+## Commit 5 - Simulação final
+
+Foi criada a montagem do carro e a execução do cálculo do peso.
+
+O cálculo ocorre de forma recursiva através dos componentes,
+demonstrando o funcionamento do padrão Composite.
