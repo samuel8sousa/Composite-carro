@@ -22,3 +22,10 @@ Foi criada uma classe capaz de armazenar outros componentes.
 
 O método calcularPeso() percorre todos os elementos internos,
 permitindo o cálculo recursivo do peso.
+
+## Commit 4 - Construção da árvore do carro
+
+Foram criados os agrupadores que representam a estrutura real
+do carro.
+
+Cada grupo pode conter outros componentes, mantendo o padrão Composite.
