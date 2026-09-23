@@ -8,3 +8,17 @@ Foi criada uma abstração chamada ComponenteCarro contendo:
 - método calcularPeso().
 
 Essa classe representa o componente do padrão Composite.
+
+## Commit 2 - Criação das folhas
+
+Foram criadas as peças simples do carro.
+
+Esses objetos representam folhas da árvore Composite,
+pois não possuem outros componentes internos.
+
+## Commit 3 - Implementação do Composite
+
+Foi criada uma classe capaz de armazenar outros componentes.
+
+O método calcularPeso() percorre todos os elementos internos,
+permitindo o cálculo recursivo do peso.
